@@ -15,13 +15,20 @@ grunt, is installed on your system.
 
 Steps to get up and running -
 
-Create directory in your work space <<angular-ws>>
-Clone the repo - git clone https://github.com/UI-Nerd/angular-ws.git
-Change directory to angular-ws - cd angular-ws
-Execute npm install
-Execute bower install
-Then execute grunt startDev
-And finally execute grunt
+1.Create directory in your work space <<angular-ws>>
+
+2.Clone the repo - git clone https://github.com/UI-Nerd/angular-ws.git
+
+3.Change directory to angular-ws - cd angular-ws
+
+4.Execute npm install
+
+5.Execute bower install
+
+6.Then execute grunt startDev
+
+7.And finally execute grunt
+
 That's it. You have correctly configured your workspace.
 
 What exactly is happening with all those commands?
@@ -41,6 +48,7 @@ angular-ws
 |_ public
 
     |_ index.html
+    
     |_ scripts
         |_ app.js
     |_ css
