@@ -1,5 +1,5 @@
 {
-  "name": "ng-mini-ws",
+  "name": "ng-ws",
   "version": "1.0.0",
   "devDependencies": {
     "grunt": "~0.4.2",
@@ -16,6 +16,6 @@
   "keywords": [
     "angularjs"
   ],
-  "author": "pk",
-  "license": "ISC"
+  "author": "ps",
+  "license": "MIT"
 }
