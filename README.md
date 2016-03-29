@@ -29,11 +29,17 @@ What exactly is happening with all those commands?
 Lets talk about the folder structure first
 
 angular-ws
+
 |_ package.json
+
 |_ bower.json
+
 |_ gruntfile.js
+
 |_ .gitignore
+
 |_ public
+
     |_ index.html
     |_ scripts
         |_ app.js
