@@ -15,11 +15,11 @@ grunt, is installed on your system.
 
 Steps to get up and running -
 
-1.Create directory in your work space <<angular-ws>>
+1.Create directory in your work space <<project dir>>
 
-2.Clone the repo - git clone https://github.com/UI-Nerd/angular-ws.git
+2.Clone the repo - git clone https://github.com/UI-Nerd/Bold-UI-Dev-1.git
 
-3.Change directory to angular-ws - cd angular-ws
+3.Change directory to <<project dir>> - cd <<project dir>>
 
 4.Execute npm install
 
