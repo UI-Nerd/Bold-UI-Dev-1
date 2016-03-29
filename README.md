@@ -19,7 +19,7 @@ Steps to get up and running -
 
 2.Clone the repo - git clone https://github.com/UI-Nerd/Bold-UI-Dev-1.git
 
-3.Change directory to <project dir> - cd <project dir>
+3.Change directory to <project dir>
 
 4.Execute npm install
 
